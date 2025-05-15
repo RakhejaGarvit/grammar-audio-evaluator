@@ -1,0 +1,6 @@
+pandas
+numpy
+whisper
+language-tool-python
+torch
+ffmpeg-python
